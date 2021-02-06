@@ -2,4 +2,4 @@
 
 Course name	    |   The URL
 -----------     |   -------
-class-01.md     |  [class-01.md](/mnt/c/Users/user/code201/Code-201-Reading-Notes/class-01.md)
+class-01.md     |  [class-01.md](https://github.com/shokreabozahra/Code-201-Reading-Notes/blob/main/class-01.md)
