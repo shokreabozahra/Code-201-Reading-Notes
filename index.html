@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>class-01b</title>
+    <style>
+        #firstItem {
+            background-color: rgb(149, 224, 183);
+        }
+
+        .listItems {
+            background-color: rgb(231, 108, 221);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>
+            class1 lab
+        </h1>
+        <nav>
+            <ul>
+                <li id="firstItem"><a href="#">home</a></li>
+
+                <li class="listItems"><a href="#">about us</a></li>
+                <li class="listItems"><a href="#">contact</a></li>
+            </ul>
+        </nav>
+
+
+    </header>
+    <main>
+        <p style="color: rgb(64, 207, 212);">
+            what's your name?
+        </p>
+        <p style="color: rgb(7, 190, 16);">
+            What\'s your favorite cocktail drink?
+        </p>
+        <p style="color: rgb(125, 230, 169);">
+            whats your favorite fruit?
+        </p >
+        
+        <p style="color: rgb(236, 114, 236);">
+            where are you from?
+        </p>
+
+    </main>
+    <footer> &copy; ASAC 2021</footer>
+    <script>
+        let userName = prompt('what\'s your name?');
+        console.log(userName);
+
+        let country = prompt('where are you from?');
+        console.log(country);
+
+        let drink = prompt('What\'s your favorite cocktail drink?');
+
+        console.log(drink);
+
+        let fruit = prompt('whats your favorite fruit?');
+        console.log(fruit);
+
+
+        alert('Welcome, ' + userName +'from ' + country +'your favourite drink is ' + drink + 'and favourite fruit ' + fruit);
+
+    </script>
+</body>
+
+</html>
