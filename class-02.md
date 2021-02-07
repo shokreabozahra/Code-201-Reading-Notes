@@ -1,9 +1,9 @@
 # Text:
-## Structural markup: 
-### the elements that you can use to describe both headings and paragraphs.
+> Structural markup: 
+> the elements that you can use to describe both headings and paragraphs.
 
-## Semantic markup:
-### which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on.
+> Semantic markup:
+> which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on.
 
 ### semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are, and browsers know how to display them.
 
